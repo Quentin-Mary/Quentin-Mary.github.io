@@ -23,11 +23,8 @@ document.addEventListener('DOMContentLoaded', function() {
         // Convertir en entier
         visitCount = parseInt(visitCount);
 
-        // Incrémenter le compteur si l'utilisateur n'a pas visité la page pendant la session en cours
-        if (!sessionStorage.getItem('visited')) {
-            visitCount++;
-            sessionStorage.setItem('visited', 'true');
-        }
+        // Incrémenter le compteur
+        visitCount++;
 
         // Mettre à jour le Local Storage avec la nouvelle valeur
         localStorage.setItem('visitCount', visitCount);
@@ -43,7 +40,6 @@ document.addEventListener('DOMContentLoaded', function() {
     document.addEventListener('keydown', function(event) {
         if (event.ctrlKey && event.shiftKey && event.key === 'U') {
             localStorage.setItem('visitCount', 0);
-            sessionStorage.removeItem('visited');
             updateVisitCount();
             alert('Compteur réinitialisé.');
         }
