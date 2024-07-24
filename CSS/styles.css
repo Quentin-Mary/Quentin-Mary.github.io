@@ -36,3 +36,9 @@ h2 {
     margin-top: 20px;
     font-size: 1.2em;
 }
+
+.visitor-counter {
+    margin-top: 20px;
+    font-size: 1em;
+    text-align: center;
+}
