@@ -40,10 +40,12 @@ Bien qu'il ne s'agisse que d'une fiction, la série Mr. Robot est reconnue pour 
 {: .prompt-danger }
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe src="http://www.youtube.com/embed/9E0395Qk69s" frameborder="0" 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    <iframe width="1236" height="695" src="https://www.youtube.com/embed/9E0395Qk69s" title="[DuckPi] - Utilisation de la Rubber Ducky dans Mr. Robot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
     </iframe>
 </div>
+
+
 
 ## Les dessous de la Rubber Ducky
 Si mes quelques mots sur cette vraie/fausse clé USB vous ont intrigué, ou que vous voulez comprendre plus en détail son fonctionnement, ses applications ainsi que ses avantages et ses inconvénients, je ne peux que vous recommander la vidéo de Linus Tech Tips sur le sujet.
@@ -51,7 +53,8 @@ Si mes quelques mots sur cette vraie/fausse clé USB vous ont intrigué, ou que 
 En une dizaine de minutes, vous comprendrez à peu près tout (si vous comprenez un minimum l'anglais). Et si Hak5 continue de vous intriguer, vous serez surpris d'apprendre qu'ils n'en sont pas à leur coup d'essai, et que d'autres produits de ce type sont [disponibles à la vente...](https://www.youtube.com/watch?v=mPF9f-PLDPc)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe width="1920" height="911" src="https://www.youtube.com/embed/kfaHJwcG2mg" title="Do NOT Plug This USB In! – Hak5 Rubber Ducky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    <iframe src="https://www.youtube.com/embed/kfaHJwcG2mg" title="Do NOT Plug This USB In! – Hak5 Rubber Ducky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
     </iframe>
 </div>
 
