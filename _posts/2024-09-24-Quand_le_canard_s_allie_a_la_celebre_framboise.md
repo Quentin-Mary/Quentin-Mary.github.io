@@ -51,10 +51,11 @@ Si mes quelques mots sur cette vraie/fausse clé USB vous ont intrigué, ou que 
 En une dizaine de minutes, vous comprendrez à peu près tout (si vous comprenez un minimum l'anglais). Et si Hak5 continue de vous intriguer, vous serez surpris d'apprendre qu'ils n'en sont pas à leur coup d'essai, et que d'autres produits de ce type sont [disponibles à la vente...](https://www.youtube.com/watch?v=mPF9f-PLDPc)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe src="http://www.youtube.com/embed/kfaHJwcG2mg" frameborder="0" 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    <iframe width="1920" height="911" src="https://www.youtube.com/embed/kfaHJwcG2mg" title="Do NOT Plug This USB In! – Hak5 Rubber Ducky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
     </iframe>
 </div>
+
+
 
 ## "DuckPi", ma vision du *vilain petit canard*
 DuckPi, c'est le petit nom que j'ai pu donner à ce projet, à cette "reproduction" de la Rubber Ducky à ma sauce. Pourquoi ce nom ? Eh bien, je ne me suis pas creusé la tête trop longtemps, il s'agit de l'alliance entre le canard en caoutchouc et la framboise de la fondation Raspberry (vous connaissez forcément le Raspberry Pi nan ?). 
