@@ -46,7 +46,7 @@ Je suis content d'avoir trouvé une solution (technique) qui semble correspondre
 
 Je vous souhaite une bonne lecture de ce qui arrivera sur ce site web, et surtout, plein de réussite dans vos projets personnels !
 
-![Illustration du MaryLab](/assets/img/posts/MaryLab_illustration_couleurs.png)
+![Illustration du MaryLab](/assets/img/posts/general/MaryLab_illustration_couleurs.png)
 
 > Quentin est entreprenant, certes, mais il a tendance à faire et à penser à mille choses à la fois : n'hésitez pas à lui rappeler (gentiment) de poster régulièrement s'il ne le fait pas !
 {: .prompt-info }

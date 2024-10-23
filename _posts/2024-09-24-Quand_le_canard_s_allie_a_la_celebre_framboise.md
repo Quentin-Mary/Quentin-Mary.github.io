@@ -15,7 +15,7 @@ Alors allons-y, introduisons le DuckPi !
 ## La Rubber Ducky, vous connaissez ?
 Le projet DuckPi est directement inspiré de l'outil développé par Hak5, la [Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky), que vous connaissez certainement. Pour ceux du fond qui ne suivent pas ou qui ne sont pas à la page, voici un petit récapitulatif.
 
-![USB Rubber Ducky](/assets/img/posts/rubber-ducky.png)
+![USB Rubber Ducky](/assets/img/posts/duckpi/rubber-ducky.png)
 *La Rubber Ducky par Hak5*
 
 La Rubber Ducky semble être une clé USB standard. Tout repose dans le "semble", vous vous doutez bien. La Rubber Ducky est un dispositif [HID](https://en.wikipedia.org/wiki/Human_interface_device), pour "Human interface device". Un clavier, une souris, un écran tactile... Tous ces périphériques font le lien entre vous et votre ordinateur. Alors qu'une clé USB est un périphérique de stockage permettant de stocker vos photos de vacances, la Rubber Ducky va se faire passer pour un périphérique HID lorsqu'elle sera connectée à un système (Windows, Mac, Linux et autres).
@@ -65,7 +65,7 @@ DuckPi, c'est le petit nom que j'ai pu donner à ce projet, à cette "reproducti
 
 Ma vision du projet DuckPi est la suivante : concevoir une carte électronique ayant pour but de reproduire les fonctionnalités que l'on pourrait retrouver sur une Rubber Ducky, tout en respectant des contraintes de taille afin d'utiliser un boîtier générique. L'idée est de pouvoir proposer, à l'instar de la Rubber Ducky, un dispositif ressemblant trait pour trait à une clé USB générique. L'un des principaux challenges se situera donc dans la miniaturisation des blocs opérationnels du PCB.
 
-![Boitier générique à utiliser](/assets/img/posts/casing-ideal.png)
+![Boitier générique à utiliser](/assets/img/posts/duckpi/casing-ideal.png)
 *Le PCB du DuckPi devra tenir dans un casing de clé USB générique !*
 
 Le projet DuckPi représente aussi une occasion de concevoir un PCB équipé du RP2040 de la fondation Raspberry comme microcontrôleur. Je vous détaillerai ce que j'ai pu apprendre et découvrir au fil de mes recherches et de la conception !
@@ -77,7 +77,7 @@ Pour ce qui est du projet et des détails techniques, le projet DuckPi représen
 
 Pour l'avoir essayé en amont sur un Raspberry Pico (équipé du RP2040) commandé pour l'occasion, je peux vous dire que ça fonctionne très bien ! Le seul souci à mes yeux, c'était le manque d'un support hardware décent. La configuration et la configuration de la clé seront détaillées dans un article dédié : bien que des indications de mise en marche soient disponible sur Github, elles ne sont pas adaptées à un utilisateur novice selon moi.
 
-![Microcontroleur RP2040](/assets/img/posts/duckpi-rp2040.png)
+![Microcontroleur RP2040](/assets/img/posts/duckpi/duckpi-rp2040.png)
 *Microcontrôleur RP2040 de Raspberry, noté RP2-B1 sur son boîtier*
 
 ## Mais ça existe déjà non ?
@@ -94,7 +94,7 @@ Voilà, vous connaissez les grandes lignes de ce projet DuckPi désormais. Des a
 
 J'espère avoir attiré votre attention et surtout attisé votre curiosité ! Je vous laisse avec le superbe logo qui ornera ce projet DuckPi : 
 
-![Logo DuckPi](/assets/img/posts/logo-duckpi.png)
+![Logo DuckPi](/assets/img/posts/duckpi/logo-duckpi.png)
 *Logo du projet DuckPi, généré à l'aide de l'intelligence articielle, sublimé par Hugo Tardy-Covet*
 
-![Mise en scène DuckPi](/assets/img/posts/scene-duckpi.png)
+![Mise en scène DuckPi](/assets/img/posts/duckpi/scene-duckpi.png)
