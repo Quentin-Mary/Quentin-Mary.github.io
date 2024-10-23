@@ -1,5 +1,5 @@
 ---
-title: Duckpi - Première conception hardware
+title: DuckPi - Première conception hardware
 date: 2024-10-23 22:15:00 +0200
 categories: [DuckPi, Réalisation, Hardware]
 tags: [duckpi,projet ,marylab , hardware, pcb, schématique]
