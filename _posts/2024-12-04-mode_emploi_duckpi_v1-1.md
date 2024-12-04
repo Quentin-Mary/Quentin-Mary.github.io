@@ -1,6 +1,6 @@
 ---
 title: DuckPi - Mode d'emploi (V1.1)
-date: 2024-10-23 22:15:00 +0200
+date: 2024-12-04 15:05:00 +0200
 categories: [DuckPi, Mode d'emploi]
 tags: [duckpi, projet ,marylab, mode d'emploi]
 ---
